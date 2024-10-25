@@ -1,8 +1,8 @@
+[English Version](README_EN.md)
+
 # AI桌面寵物
 
 這是一個AI桌面寵物程式，目前正在開發中。
-
-[English Version](README_EN.md)
 
 ## 當前功能
 
